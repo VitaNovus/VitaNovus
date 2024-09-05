@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VitaNovus
+- 👋 Hi, I’m Bijoy
 - 👀 I’m interested in Artificial Intelligence and stuff like that.
 - 🌱 I’m currently learning Machine Learning.
 
